@@ -5,7 +5,12 @@
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
         "jupyterlab-tour"
-      ]
+      ],
+     "ContentsManager": {
+
+                        "allow_hidden": true
+
+                    }
     }
   }
   

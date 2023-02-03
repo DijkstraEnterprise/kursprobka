@@ -11,7 +11,7 @@ Następnie kliknij __SHIFT__ i __ENTER__ lub ▶️ (z panelu górnego) w nastę
 
 <img src="images/html.jpg">
 
-Jeśli po lewej stronie wyświetliło się `[1]` po paru sekundach to wszystko działa i możesz zacząc programować! Jeśli wyświetla się `[*]` to odśwież przeglądarkę i/lub kliknij restart kernel `↻` w panelu górnym.
+Jeśli po lewej stronie wyświetliło się `[1]` po paru sekundach to wszystko działa i możesz zacząć programować! Jeśli wyświetla się `[*]` to odśwież przeglądarkę i/lub kliknij restart kernel `↻` w panelu górnym.
 
 ## Pobrać tą próbkę na swój komputer i skonfigurować środowisko programistyczne.
 
@@ -32,7 +32,7 @@ Aby w pełni cieszyć się zawartością tej próbki wykonaj następujące czynn
 7.	Kliknij w 1_Lekcja_witaj_świecie.ipynb aby zacząć kurs. 
 8. Następnie kliknij __SHIFT__ i __ENTER__ lub ▶️ (z panelu górnego) w następującej komórce:
 
-<img src="html.jpg">
+<img src="iamges/html.jpg">
 
 Jeśli po lewej stronie wyświetliło się `[1]` po paru sekundach to wszystko działa! Jeśli wyświetla się `[*]` to odśwież przeglądarkę i/lub kliknij restart kernel `↻` w panelu górnym.
 

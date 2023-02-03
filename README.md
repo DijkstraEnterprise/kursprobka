@@ -1,4 +1,6 @@
-# Cześć! Witaj w naszej próbce  kursu!
+# Cześć! Witaj w naszej próbce kursu!
+
+Cały kurs kupisz tutaj: https://dijkstraenterprise.com/shop/
 
 Na pewno chcesz już szybko zacząć korzystać z tej próbki! Możesz to zrobić na dwa sposoby.
 

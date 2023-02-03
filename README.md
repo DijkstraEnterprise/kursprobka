@@ -1,8 +1,8 @@
 # Cześć! Witaj w naszej próbce kursu!
 
-Cały kurs kupisz tutaj: https://dijkstraenterprise.com/shop/
-
 Na pewno chcesz już szybko zacząć korzystać z tej próbki! Możesz to zrobić na dwa sposoby.
+
+Cały kurs kupisz tutaj: https://dijkstraenterprise.com/shop/
 
 ## Wejść na stronę: 
 https://kursprobka.dijkstraenterprise.com/retro/notebooks/?path=1_Lekcja_Witaj_Swiecie.ipynb

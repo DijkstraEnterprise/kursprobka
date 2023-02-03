@@ -34,6 +34,6 @@ Aby w pełni cieszyć się zawartością tej próbki wykonaj następujące czynn
 
 <img src="images/html.jpg">
 
-Jeśli po lewej stronie wyświetliło się `[1]` po paru sekundach to wszystko działa! Jeśli wyświetla się `[*]` to odśwież przeglądarkę i/lub kliknij restart kernel ↻ w panelu górnym.
+Jeśli po lewej stronie wyświetliło się `[1]` po paru sekundach to wszystko działa! Jeśli wyświetla się `[*]` to odśwież przeglądarkę i/lub kliknij __restart kernel__ ↻ w panelu górnym.
 
 __POWODZENIA!__ 

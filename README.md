@@ -2,7 +2,8 @@
 
 Na pewno chcesz już szybko zacząć korzystać z tej próbki! Możesz to zrobić na dwa sposoby:
 
-## Wejść na stronę: https://kursprobka.dijkstraenterprise.com/retro/notebooks/?path=1_Lekcja_Witaj_Swiecie.ipynb
+## Wejść na stronę: 
+https://kursprobka.dijkstraenterprise.com/retro/notebooks/?path=1_Lekcja_Witaj_Swiecie.ipynb
 
 Strona ta może ładować się kilka sekund, wynika to z tego, że przeglądarka musi ściągnąć ciasteczka do obsługi Pythona (około 40 sekund). Zalecamy używania jej w przeglądarce __Google Chrome__, zdecydowanie __nie zalecamy Safari__.
 

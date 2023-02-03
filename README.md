@@ -33,6 +33,6 @@ Aby w pełni cieszyć się zawartością tej próbki wykonaj następujące czynn
 8. Następnie kliknij __SHIFT__ i __ENTER__ lub ▶️ (z panelu górnego) w następującej komórce:
 
 <img src="images/html.jpg">
-Jeśli po lewej stronie wyświetliło się `[1]` po paru sekundach to wszystko działa! Jeśli wyświetla się `[*]` to odśwież przeglądarkę i/lub kliknij restart kernel `↻` w panelu górnym.
+Jeśli po lewej stronie wyświetliło się `[1]` po paru sekundach to wszystko działa! Jeśli wyświetla się `[*]` to odśwież przeglądarkę i/lub kliknij restart kernel ↻ w panelu górnym.
 
 __POWODZENIA!__ 

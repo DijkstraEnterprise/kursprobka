@@ -23,7 +23,7 @@ Aby w pełni cieszyć się zawartością tej próbki wykonaj następujące czynn
 
 <img src ="images/Anaconda.jpg">
 4.	Kliknij w Launch przy ikonce Jupyter Notebook.
-5.	Powinieneś przenieść się wtedy do folderu “głównego” swojego komputera, który wyświetli się w przeglądarce, adres URL to http://localhost:8888/tree
+5.	Powinieneś przenieść się wtedy do folderu “głównego” swojego komputera, który wyświetli się w przeglądarce, adres URL to `http://localhost:8888/tree`
 
 6.	Przejdź do folderu `kursprobka/content`. Twój ekran powinien wyglądać podobnie jak na obrazku poniżej.
 

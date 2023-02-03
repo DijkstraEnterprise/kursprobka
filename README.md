@@ -27,12 +27,12 @@ Aby w pełni cieszyć się zawartością tej próbki wykonaj następujące czynn
 
 6.	Przejdź do folderu kursprobka. Twój ekran powinien wyglądać podobnie jak na obrazku poniżej.
 
-<img src="images/Anaconda2.jpg">
+<img src="images/Anaconda2.png">
 
 7.	Kliknij w 1_Lekcja_witaj_świecie.ipynb aby zacząć kurs. 
 8. Następnie kliknij __SHIFT__ i __ENTER__ lub ▶️ (z panelu górnego) w następującej komórce:
 
-<img src="html.png">
+<img src="html.jpg">
 
 Jeśli po lewej stronie wyświetliło się `[1]` po paru sekundach to wszystko działa! Jeśli wyświetla się `[*]` to odśwież przeglądarkę i/lub kliknij restart kernel `↻` w panelu górnym.
 
